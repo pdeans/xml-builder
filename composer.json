@@ -13,8 +13,7 @@
 	],
 	"require": {
 		"php": ">=5.3.3",
-		"ext-xmlwriter": ">=0.1",
-		"pdeans/debuggers-vardumper": "^1.0"
+		"ext-xmlwriter": ">=0.1"
 	},
 	"autoload": {
 		"psr-4": {
