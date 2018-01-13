@@ -68,7 +68,7 @@ echo $builder->decimal(49.0005, 3);
 The `@tags` key represents one of 3 reserved keys (each containing shortcut key counterparts) that the xml builder uses to parse and generate the xml. The reserved keys are as follows:
 
 **@attributes Key**  
-__Shortcut: **@a**__
+_Shortcut: **@a**_
 
 The `@attributes` key is used to create xml element attributes. The `@a` key is also supported as a shortcut for the `@attributes` key.
 
@@ -97,7 +97,7 @@ XML Produced:
 ```
 
 **@tags Key**  
-__Shortcut: **@t**__
+_Shortcut: **@t**_
 
 The `@tags` key accepts an associative array of data to build the root element's children. The `@t` key is also supported as a shortcut for the `@tags` key.
 
@@ -138,7 +138,7 @@ XML Produced:
 ```
 
 **@value Key**  
-__Shortcut: **@v**__
+_Shortcut: **@v**_
 
 The `@value` key explicitly sets an xml element value. Generally, this is only required on xml elements that require both attributes and a value to be set. The `@v` key is also supported as a shortcut for the `@value` key.
 
