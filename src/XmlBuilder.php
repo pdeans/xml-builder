@@ -2,6 +2,7 @@
 
 namespace pdeans\Builders;
 
+use UnexpectedValueException;
 use XMLWriter;
 
 /**

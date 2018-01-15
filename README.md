@@ -22,7 +22,7 @@ use pdeans\Builders\XmlBuilder;
 $bulder = new XmlBuilder;
 ```
 
-The `create` method is used to generate an xml tags. The `create` method takes the name of the root element as the first argument, and an associative array consisting of the data to build the root attribute elements and/or child elements as the second argument.
+The `create` method is used to generate an xml tag. The `create` method takes the name of the root element as the first argument, and an associative array consisting of the data to build the root attribute elements and/or child elements as the second argument.
 
 Here is a simple example:
 
