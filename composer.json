@@ -13,7 +13,7 @@
 	],
 	"require": {
 		"php": ">=5.3.3",
-		"ext-xmlwriter": ">=0.1"
+		"ext-xmlwriter": "*"
 	},
 	"autoload": {
 		"psr-4": {
